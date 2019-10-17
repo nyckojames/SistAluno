@@ -113,10 +113,7 @@ public class SistemaDeAlunos {
 		if(confirm == 0) {	
 			System.out.println(alunos);
 			JOptionPane.showMessageDialog(null, alunos);
-			for (Aluno aluno2 : alunos) {
-				
-				
-			}	
+			
 		}
 		
 		System.exit(0);
